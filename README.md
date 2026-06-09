@@ -46,5 +46,3 @@ I focus on scalable, documented, long-term fixes (not temporary patches), and I 
 - **LinkedIn:** [Muhammad Umar](https://www.linkedin.com/in/muhammad-umar-a100b4191/?skipRedirect=true)
 
 ---
-
-> Use `control + shift + m` to toggle the `tab` key moving focus. Alternatively, use `esc` then `tab` to move to the next interactive element on the page.
