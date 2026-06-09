@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-**ProNetworkEngineer/ProNetworkEngineer** is a **special** repository because its `README.md` (this file) appears on your GitHub profile.
-
 ---
 
 ## 🛡️ Network & Security Engineer (CCNP) | MikroTik (MTCNA) | Fortinet | pfSense | VPN | Firewall | Monitoring | IT Support | Windows Server
